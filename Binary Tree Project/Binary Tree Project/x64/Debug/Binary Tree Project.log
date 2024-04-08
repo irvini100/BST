@@ -1,0 +1,10 @@
+﻿cl : command line  warning D9025: overriding '/Fox64\Debug\' with '/Fox64\Debug" /Fpx64\Debug\Binary'
+  Tree
+/Tree(1,1): error C1083: Cannot open source file: 'Tree': No such file or directory
+  (compiling source file '/Tree')
+  
+  FORCE:MULTIPLE Main.cpp
+/Project.pch /diagnostics:column /FORCE:MULTIPLE Main.cpp(1,1): error C1083: Cannot open source file: 'Project.pch /diagnostics:column /FORCE:MULTIPLE Main.cpp': No such file or directory
+  (compiling source file '/Project.pch%20/diagnostics:column%20/FORCE:MULTIPLE%20Main.cpp')
+  
+  Generating Code...
